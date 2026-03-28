@@ -67,7 +67,7 @@ The dataset includes the following key fields:
 
 ## ScreenShot
 Power Bi Dashboard: [https://github.com/Deeepkushwaha/SuperStore-Sales-Dashboard/blob/main/SuperStore%20Dashboard.png]
-Example: [
+Example: [https://github.com/Deeepkushwaha/SuperStore-Sales-Dashboard/blob/main/Superstore%20Sales%20Dashboard.pbit]
 
 
 
